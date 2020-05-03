@@ -1,0 +1,37 @@
+body {
+    background: white url("img/bg2.png");
+}
+
+.navbar{
+    border-radius: 0;
+}
+
+.navbar-brand{
+   font-family: 'Pacifico', cursive;
+}
+
+.navbar-inverse .navbar-brand {
+    color: #ef0c0c;
+}
+
+.thumbnail {
+    display: block;
+    padding: 4px;
+    margin-bottom: 20px;
+    line-height: 1.42857143;
+    background-color: #ffffff5e;
+    border: 1px solid #9a0c0c00;
+    border-radius: 0px;
+    -webkit-transition: border .2s ease-in-out;
+    -o-transition: border .2s ease-in-out;
+    transition: border .2s ease-in-out;
+    width: 210px;
+    height: 360px;
+}
+
+.thumbnail a>img, .thumbnail>img {
+    margin-right: auto;
+    margin-left: auto;
+    height: 200px;
+    width: 200;
+}
