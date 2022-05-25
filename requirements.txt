@@ -27,7 +27,7 @@ panda==0.3.1
 patterns==0.3
 public==2019.4.13
 pycparser==2.19
-PyJWT==1.7.1
+PyJWT==2.4.0
 PySocks==1.7.1
 python-dateutil==2.8.1
 python3-openid==3.1.0
